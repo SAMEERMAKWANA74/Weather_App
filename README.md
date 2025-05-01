@@ -25,5 +25,5 @@ A sleek and responsive Weather App built using **React** and integrated with a l
 
 ### 1. Clone the repository
 
-```bash
+---
 https://weather-app-sameermakwana-6220b1.netlify.app/
