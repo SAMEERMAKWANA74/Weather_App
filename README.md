@@ -17,6 +17,8 @@ A sleek and responsive Weather App built using **React** and integrated with a l
 ## 🛠️ Built With
 
 - **React** (Frontend Framework)
+- Weather Api
+
 
 
 ---
